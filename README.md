@@ -1,8 +1,8 @@
 # Project Cycle 2
 
 ## Group Information
-- Group number: **Replace with your group number**
-- Member names: **Replace with member names**
+- Group number: 09
+- Member names: 112370216蘇榮盛
 
 ## Dataset
 - `YRBS_2007.csv`
