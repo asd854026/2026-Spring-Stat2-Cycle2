@@ -2,8 +2,10 @@
 
 ## Group Information
 - Group number: 09
-- Member names: 112370216蘇榮盛
-
+- Member names:
+  112370216 蘇榮盛,
+  109370231 謝宇家,
+  113370220	游子涵
 ## Dataset
 - `YRBS_2007.csv`
 
