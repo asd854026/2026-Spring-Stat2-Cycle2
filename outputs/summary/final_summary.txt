@@ -1,0 +1,15 @@
+Project Cycle 2 Final Summary
+
+Selected behavior variable: EverCigaretteUse
+Benchmark proportion: 0.50
+Estimated proportion: 0.526726
+95% CI: (0.518329, 0.535108)
+p-value: 4.55416e-10
+Decision at 5%: reject H0
+
+Selected continuous variable: HowMuchDoYouWeighWithoutShoesInKG
+Benchmark mean: 68.0
+Estimated mean: 68.550172
+95% CI: (68.258766, 68.841579)
+p-value: 0.000215859
+Decision at 5%: reject H0
