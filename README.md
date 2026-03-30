@@ -7,7 +7,7 @@
   109370231 謝宇家,
   113370220	游子涵
 ## Dataset
-- `YRBS_2007.csv`
+- `YRBS_2007.csv`, `yrbs_selected_cleaned.csv`
 
 ## Selected Variables
 - Proportion analysis: `EverCigaretteUse` with benchmark `p0 = 0.50`
