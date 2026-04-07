@@ -1,18 +1,25 @@
-# Variable Definitions
+Variable Definitions
 
-## Selected behavior variable
-- **Variable name:** `EverCigaretteUse`
-- **Meaning:** Indicates whether a student has ever used cigarettes.
-- **Valid raw codes used in this project:** 1 and 2
-- **Project rule:** success = code 1, failure = code 2
+Selected behavior variable
 
-## Selected continuous variable
-- **Variable name:** `HowMuchDoYouWeighWithoutShoesInKG`
-- **Meaning:** Student body weight without shoes, measured in kilograms.
-- **Valid values used in this project:** positive numeric values
-- **Missing handling:** blank / missing values are removed before analysis
+    Variable name: EverCigaretteUse
+    What the variable measures: whether a student has ever used cigarettes
+    Valid codes used:
+        success = code 1
+        failure = code 2
+    Recoding used:
+        success = code 1
+        failure = code 0
+    How missing or invalid values are handled:
+        removed from the analysis
+    Final valid sample size for behavior analysis: 13601
 
-## Additional variable used for subgroup EDA
-- **Variable name:** `WhatIsYourSex`
-- **Role in this project:** used only for optional subgroup EDA
-- **Important note:** this project keeps the original sex codes as numeric codes because the code labels are not documented in the assignment PDF.
+Selected continuous variable
+
+    Variable name: HowMuchDoYouWeighWithoutShoesInKG
+    What the variable measures: body weight without shoes in kilograms
+    Valid values used:
+        positive numeric values
+    How missing or invalid values are handled:
+        removed from the analysis
+    Final valid sample size for mean analysis: 13062
