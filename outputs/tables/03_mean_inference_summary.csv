@@ -1,0 +1,2 @@
+analysis,variable,estimate,benchmark,test_statistic,p_value,ci_low,ci_high,decision_5pct
+Population mean,HowMuchDoYouWeighWithoutShoesInKG,68.5502,68.0000,3.7007,0.0002,68.2588,68.8416,reject H0
