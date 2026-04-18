@@ -1,0 +1,23 @@
+Project Cycle 2 Final Summary
+
+Formal behavior variable: SadOrHopeless
+Benchmark proportion: 0.30
+Estimated proportion: 0.299964
+95% CI: (0.292387, 0.307652)
+z-statistic: -0.0093
+p-value: 0.992601
+Decision at 5%: fail to reject H0
+
+Formal continuous variable: HowMuchDoYouWeighWithoutShoesInKG
+Benchmark mean: 68.0
+Estimated mean: 68.550172
+95% CI: (68.258766, 68.841579)
+t-statistic: 3.7007
+p-value: 0.000216
+Decision at 5%: reject H0
+
+Exploratory EDA summary
+- Across age groups, current smokers generally show a higher SadOrHopeless proportion than non-smokers.
+- The smoker-minus-non-smoker gap is positive across the grouped age categories, although its size varies by age.
+- Among current smokers, smoking-frequency composition appears to differ somewhat by SadOrHopeless status.
+- These exploratory findings should be interpreted as descriptive rather than confirmatory.
