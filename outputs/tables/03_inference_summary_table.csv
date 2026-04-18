@@ -1,3 +1,0 @@
-analysis,variable,estimate,benchmark,test_statistic,p_value,ci_low,ci_high,decision_5pct
-Population proportion,EverCigaretteUse,0.5267,0.5,6.2337,< 0.0001,0.5183,0.5351,reject H0
-Population mean,HowMuchDoYouWeighWithoutShoesInKG,68.5502,68.0,3.7007,0.0002,68.2588,68.8416,reject H0
