@@ -51,4 +51,9 @@
   Summary table of main inferential results and final synthesis.
 
 ## Short final conclusion
-The formal proportion analysis found that the estimated proportion of `SadOrHopeless` is essentially equal to the benchmark of `0.30`, so the null hypothesis was **not rejected** at the 5% level. The formal mean analysis found that the sample mean body weight is slightly above `68.0 kg`, so the null hypothesis was **rejected** at the 5% level. The additional exploratory EDA suggests that `SadOrHopeless` tends to be more common among current smokers than among non-smokers across age groups, and that smoking-frequency patterns among current smokers may also differ somewhat by `SadOrHopeless` status.
+
+The formal proportion analysis found that the estimated proportion of `SadOrHopeless` is essentially equal to the benchmark of `0.30`, so the null hypothesis was **not rejected** at the 5% level.  
+
+The formal mean analysis found that the sample mean body weight is slightly above `68.0 kg`, so the null hypothesis was **rejected** at the 5% level.  
+
+The additional exploratory EDA suggests that `SadOrHopeless` tends to be more common among current smokers than among non-smokers across age groups, and that smoking-frequency patterns among current smokers may also differ somewhat by `SadOrHopeless` status.
