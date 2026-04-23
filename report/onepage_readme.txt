@@ -1,1 +1,0 @@
-It's recommended to adjust it to 120% for better clarity.
